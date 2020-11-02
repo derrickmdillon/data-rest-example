@@ -1,6 +1,6 @@
 package com.dillon.restapi.repository;
 
-import com.dillon.restapi.dao.User;
+import com.dillon.restapi.model.User;
 
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.stereotype.Repository;
